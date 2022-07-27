@@ -1,0 +1,75 @@
+Entity,Continent,carbon,energy
+Canada,NorthAmerica,14.1969,13.63
+Mexico,Asia,2.7686,6.48
+Argentina,Africa,3.4733,3.15
+Brazil,SouthAmerica,2.1988,12.01
+Chile,Asia,4.2462,1.61
+Colombia,Asia,1.7512,1.77
+Ecuador,Asia,1.7532,0.65
+Peru,NorthAmerica,1.3559,1
+Venezuela,Europe,2.9754,1.44
+Austria,Europe,6.7324,1.38
+Belgium,Europe,7.2262,2.19
+Bulgaria,Europe,5.3888,0.69
+Croatia,SouthAmerica,4.1366,0.33
+Cyprus,Europe,5.3805,0.1
+Denmark,Europe,4.5224,0.59
+Estonia,Asia,7.8795,0.19
+Finland,Asia,7.0907,1.1
+France,Asia,4.2381,8.7
+Germany,Asia,7.6901,12.11
+Greece,Asia,5.0115,1
+Hungary,Asia,4.9973,0.97
+Iceland,Asia,8.6036,0.21
+Ireland,Asia,6.7538,0.62
+Italy,Asia,5.0249,5.86
+Latvia,Asia,3.5907,0.15
+Lithuania,Asia,5.0691,0.25
+Luxembourg,Asia,13.059,0.14
+Netherlands,Asia,8.0596,3.37
+North Macedonia,Asia,3.4302,0.1
+Norway,Asia,7.615,1.93
+Poland,Europe,7.916,4.01
+Portugal,SouthAmerica,3.9609,0.93
+Romania,Europe,3.7154,1.33
+Slovakia,Europe,5.6286,0.62
+Slovenia,Africa,6.043,0.27
+Spain,Europe,4.4683,4.97
+Sweden,Europe,3.8255,2.2
+Switzerland,Europe,3.7319,1.08
+Turkey,Europe,4.6573,6.29
+Ukraine,Europe,4.8912,3.31
+United Kingdom,Europe,4.8549,6.89
+Azerbaijan,Asia,3.7203,0.62
+Belarus,Asia,6.0793,0.98
+Kazakhstan,Asia,15.5158,3.11
+Turkmenistan,Asia,12.4914,1.4
+Uzbekistan,Asia,3.3698,1.87
+Iran,Asia,8.8702,12.03
+Iraq,Asia,5.2416,2.06
+Israel,Asia,6.5104,1.05
+Kuwait,Asia,20.8251,1.51
+Oman,Asia,12.1729,1.37
+Qatar,Asia,37.0193,1.71
+Saudi Arabia,Asia,17.9672,10.56
+United Arab Emirates,Asia,15.1933,4.19
+Algeria,Africa,3.5346,2.3
+Egypt,Asia,2.0859,3.65
+Morocco,Asia,1.7484,0.88
+South Africa,Africa,7.6204,4.9
+Australia,Australia,15.3684,5.57
+Bangladesh,Asia,0.5637,1.59
+China,Asia,7.4117,145.46
+India,Asia,1.7694,31.98
+Indonesia,Asia,2.1552,8.1
+Japan,Asia,8.1499,17.03
+Malaysia,Asia,8.4226,4.11
+New Zealand,Australia,6.9418,0.84
+Pakistan,Asia,1.0628,3.47
+Philippines,Asia,1.2413,1.82
+Singapore,Asia,7.778,3.42
+South Korea,Asia,11.6562,11.79
+Sri Lanka,Asia,0.9857,0.33
+Taiwan,Asia,11.4698,4.82
+Thailand,Asia,3.6929,5.12
+Vietnam,Asia,2.6126,4.09

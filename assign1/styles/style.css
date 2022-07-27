@@ -1,0 +1,125 @@
+/*
+filename: style.css
+author: Drishti and Yashvi
+*/
+
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+
+ol {
+  text-align: left;
+}
+
+ul{
+  text-align: left;
+}
+
+p {
+  color: #222831;
+}
+
+  /*Adjusting the layout of the screen acc to the screen size */
+
+@media (max-width: 1024px) {
+  #title {
+    text-align: center;
+  }
+
+}
+
+
+.Mainhead {
+  font-size: 2.7rem;
+  line-height: 1.5;
+}
+
+/*Navigation*/
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 8px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+
+
+/*features*/
+.feature-text {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.icons {
+  color: #28527a;
+  margin-bottom: 1rem;
+}
+
+.icons:hover {
+  color: #276678;
+}
+
+/* blueSec Section */
+#blueSec {
+  background-color: #28527a;
+}
+
+
+/*sections*/
+.blueSection {
+  background-color: #28527a;
+  color: #e7e6e1;
+  padding: 3% 4% 4%;
+}
+
+.bodyy {
+  background-color: #eff7e1;
+  padding: 7% 10% 10%;
+}
+
+#analysis {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+#buttonXlim {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  font-size: 25px;
+}
+
+
+.backimg {                                      /*adding background image to index page*/
+  background-image: url('images/clean-energy.jpg');
+  background-color: #28527a;
+  background-repeat: no-repeat;
+  height: 75vh;
+  background-size: cover;
+  padding: 3% 4% 4%;
+}
+
+/*footer*/
+.footer-img {
+  margin: 20px 10px;
+}
+
+.LightFont {
+  color: #a3d8f4;
+}
